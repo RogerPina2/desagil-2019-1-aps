@@ -24,7 +24,6 @@ public class OrGate extends Gate {
         return nandRight.read();
     }
 
-
     @Override
     public void connect(int inputPin, SignalEmitter emitter) {
         switch (inputPin) {
