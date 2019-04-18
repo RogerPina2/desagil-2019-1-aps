@@ -3,6 +3,7 @@ package br.pro.hashi.ensino.desagil.aps.view;
 import br.pro.hashi.ensino.desagil.aps.model.Gate;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.LinkedList;
